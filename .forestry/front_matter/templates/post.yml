@@ -52,7 +52,6 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/test-post.md
 - src/pages/posts/veroeros.md
 - src/pages/posts/ultricies.md
 - src/pages/posts/tempus.md
