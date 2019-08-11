@@ -14,14 +14,8 @@ follow_section:
 - title: Dribbble
   icon: fa-dribbble
   link_url: "#"
-- title: GitHub
-  icon: fa-github
-  link_url: "#"
 - title: 500px
   icon: fa-500px
-  link_url: "#"
-- title: Phone
-  icon: fa-phone
   link_url: "#"
 - title: Email
   icon: fa-envelope-o
