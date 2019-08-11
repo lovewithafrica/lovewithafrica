@@ -51,6 +51,12 @@ fields:
   default: page
   config:
     required: true
+- name: my_family
+  type: file
+  config:
+    maxSize: 250
+  label: My family
+  description: 'My beautiful little family '
 pages:
 - src/pages/posts/veroeros.md
 - src/pages/posts/ultricies.md
