@@ -1,6 +1,6 @@
 ---
 title: Aliquam
-home_style: style5
+home_style: style2
 home_img: images/pic05.jpg
 excerpt: 'Today was a good day. We had the time of our lives by spending quality time
   together '
